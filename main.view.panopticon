@@ -1,1 +1,1 @@
-{}
+{"details":{},"parameters":{"Coin":{"value":"BTC","label":"Coin Name","placeholder":"","default":"BTC"},"Stock":{"value":"NTFL","label":"Stock Name","placeholder":"","default":"NTFL"}},"modules":[],"tiles":null,"presets":[]}
